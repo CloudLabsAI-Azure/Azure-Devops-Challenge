@@ -16,6 +16,19 @@ This Hack to Skill challenge addresses these gaps. You will provision infrastruc
 
 ---
 
+## About the Sandbox Environment
+
+   | Resources | Value | Remarks |
+   | --- | --- | --- |
+   | Enabled Services | `Azure DevOps` <br> `Azure Virtual Machines` <br> `App Services` <br> `Azure Kubernetes Service` <br> `Container Apps`  | You will full access over Azure Subscription, utilize this to explore any desired Azure resources. |
+   | Azure Entra ID User | Pre-created Entra ID user account | You will get one Entra ID User Account. |
+   | Azure Subscription Permissions | **Owner** privilege over Azure Subscription | You will get Owner access to the Azure subscription. |
+   | Azure Credit | **$110 USD**| Consumption limit is set on Azure spend to 200 USD. |
+   | Credit Alerts | Credit Alerts are set on consumption of 25%, 50%, 75%, 85%, 90%, 95% and 100% of total Azure credits. |Make sure to check your registered email's inbox for any alert-related mails. Alerts give you a head start to keep your Azure spending in control and to plan out the remaining credits in the best way possible. |
+   | Sandbox Duration | 5 Days/ 120 Hours or until Azure Consumption Credits are exhausted.  | The sandbox environment will be deleted automatically after 5 Days/120 Hours or once the Azure credits are exhausted, whichever comes first. |
+
+---
+
 ## Hack to Skill Format: Challenge-Based
 
 This hackathon is structured into four progressive challenges that model the lifecycle of modern DevOps implementation:
@@ -33,6 +46,13 @@ This hackathon is structured into four progressive challenges that model the lif
   Integrate pipelines with Boards, enforce traceability, enable operational visibility, and validate end-to-end workflow readiness.
 
 Each challenge builds upon the previous one, progressively strengthening the delivery platform from foundational infrastructure to enterprise-grade governance.
+
+---
+
+## Best Practices:
++ **Resources usage:** Please stop the virtual machines, WebApps, Azure Kubernetes service, Azure Container Instance and other resources when not in use to minimize the Azure spend.
++ **Azure Cost Analysis:** Maintain a practice of regularly checking the Cost Analysis report for the assigned Azure subscription to ensure the sustainability of the environment over an extended period.
++ **Alert notifications:** Make sure to check your registered email's inbox for any alert-related emails. Alerts give you can head start to keep your Azure spending in control and to plan out the remaining credits in the best way possible.
 
 ---
 
