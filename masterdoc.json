@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Azure DevOps Challenge",
+        "Language": "English",
+        "BaseURL": "https://github.com/CloudLabsAI-Azure/Azure-Devops-Challenge",
+        "Files": [
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Devops-Challenge/overview.md",
+                "Order": 1
+            },
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Devops-Challenge/getting-started.md",
+                "Order": 2
+            },
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Devops-Challenge/challenge1.md",
+                "Order": 3
+            },
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Devops-Challenge/challenge2.md",
+                "Order": 4
+            },
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Devops-Challenge/challenge3.md",
+                "Order": 5
+            },
+                        {
+                "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Azure-Devops-Challenge/challenge4.md",
+                "Order": 6
+            }
+        ]
+    }
+
+]
