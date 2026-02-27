@@ -52,19 +52,19 @@ Pre-built container images for each microservice are available for direct consum
 ### Gateway Service
 
 ```
-<Gateway_Image_Link>
+https://hub.docker.com/r/cloudlabssrv/contoso-gateway
 ```
 
 ### Product Service  
 
 ```
-<Product_Service_Image_Link>
+https://hub.docker.com/r/cloudlabssrv/contoso-product-service
 ```
 
 ### Order Service
 
 ```
-<Order_Service_Image_Link>
+https://hub.docker.com/r/cloudlabssrv/contoso-order-service
 ```
 
 ## Objectives
