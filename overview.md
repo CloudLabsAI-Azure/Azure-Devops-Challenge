@@ -23,7 +23,7 @@ This Hack to Skill challenge addresses these gaps. You will provision infrastruc
    | Enabled Services | `Azure DevOps` <br> `Azure Virtual Machines` <br> `App Services` <br> `Azure Kubernetes Service` <br> `Container Apps`  | You will full access over Azure Subscription, utilize this to explore any desired Azure resources. |
    | Azure Entra ID User | Pre-created Entra ID user account | You will get one Entra ID User Account. |
    | Azure Subscription Permissions | **Owner** privilege over Azure Subscription | You will get Owner access to the Azure subscription. |
-   | Azure Credit | **$110 USD**| Consumption limit is set on Azure spend to 200 USD. |
+   | Azure Credit | **$110 USD**| Consumption limit is set on Azure spend to 110 USD. |
    | Credit Alerts | Credit Alerts are set on consumption of 25%, 50%, 75%, 85%, 90%, 95% and 100% of total Azure credits. |Make sure to check your registered email's inbox for any alert-related mails. Alerts give you a head start to keep your Azure spending in control and to plan out the remaining credits in the best way possible. |
    | Sandbox Duration | 5 Days/ 120 Hours or until Azure Consumption Credits are exhausted.  | The sandbox environment will be deleted automatically after 5 Days/120 Hours or once the Azure credits are exhausted, whichever comes first. |
 
