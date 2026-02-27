@@ -26,6 +26,7 @@ The focus is on building a clean, repeatable, and controlled platform foundation
 ## Monolithic Application Source
 
 ```
+https://github.com/CloudLabsAI-Azure/contoso-electronics-monolith.git
 ```
 
 ---

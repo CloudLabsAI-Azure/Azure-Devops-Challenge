@@ -29,6 +29,44 @@ The emphasis is on platform readiness, secure image handling, and independent pi
 
 ---
 
+## Microservices Application Source
+
+The microservices version of the application used in the previous challenge is provided as a source code repository for reference.
+
+This repository represents the application after transitioning from a monolithic architecture to a microservices-based model. You may review it to understand service separation, architecture design, and overall application structure.
+
+### Source Code for Reference
+
+```
+https://github.com/CloudLabsAI-Azure/contoso-electronics-microservices.git
+```
+
+You may also directly leverage the public container images provided below within your CI/CD pipelines and deployment configuration, based on your preferred approach.
+
+---
+
+## Public Images of Microservices
+
+Pre-built container images for each microservice are available for direct consumption.
+
+### Gateway Service
+
+```
+<Gateway_Image_Link>
+```
+
+### Product Service  
+
+```
+<Product_Service_Image_Link>
+```
+
+### Order Service
+
+```
+<Order_Service_Image_Link>
+```
+
 ## Objectives
 
 ### 1. Microservices Architecture Planning

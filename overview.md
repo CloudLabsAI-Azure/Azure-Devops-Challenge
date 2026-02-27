@@ -29,30 +29,28 @@ This Hack to Skill challenge addresses these gaps. You will provision infrastruc
 
 ---
 
-## Hack to Skill Format: Challenge-Based
-
-This hackathon is structured into four progressive challenges that model the lifecycle of modern DevOps implementation:
-
-- **Challenge 1 – Platform Setup & Infrastructure Provisioning**  
-  Onboard the monolithic application into Azure DevOps and provision required infrastructure using Infrastructure as Code.
-
-- **Challenge 2 – CI Pipeline Implementation with Quality Thresholds (Monolithic Application)**  
-  Design and implement a multi-stage CI pipeline with enforced validation criteria and controlled stage progression.
-
-- **Challenge 3 – CI/CD Enablement for Microservices Application**  
-  Extend delivery principles to a microservices-based application with independent service-level pipelines and deployment readiness validation.
-
-- **Challenge 4 – Governance, Traceability & Operational Validation**  
-  Integrate pipelines with Boards, enforce traceability, enable operational visibility, and validate end-to-end workflow readiness.
-
-Each challenge builds upon the previous one, progressively strengthening the delivery platform from foundational infrastructure to enterprise-grade governance.
-
----
-
 ## Best Practices:
 + **Resources usage:** Please stop the virtual machines, WebApps, Azure Kubernetes service, Azure Container Instance and other resources when not in use to minimize the Azure spend.
 + **Azure Cost Analysis:** Maintain a practice of regularly checking the Cost Analysis report for the assigned Azure subscription to ensure the sustainability of the environment over an extended period.
 + **Alert notifications:** Make sure to check your registered email's inbox for any alert-related emails. Alerts give you can head start to keep your Azure spending in control and to plan out the remaining credits in the best way possible.
+
+## Hack to Skill Format: Challenge-Based
+
+This hackathon is structured into four progressive challenges that model the lifecycle of modern DevOps implementation:
+
+- **Challenge 1 - Platform Setup & Infrastructure Provisioning**  
+  Onboard the monolithic application into Azure DevOps and provision required infrastructure using Infrastructure as Code.
+
+- **Challenge 2 - CI Pipeline Implementation with Quality Thresholds (Monolithic Application)**  
+  Design and implement a multi-stage CI pipeline with enforced validation criteria and controlled stage progression.
+
+- **Challenge 3 - CI/CD Enablement for Microservices Application**  
+  Extend delivery principles to a microservices-based application with independent service-level pipelines and deployment readiness validation.
+
+- **Challenge 4 - Governance, Traceability & Operational Validation**  
+  Integrate pipelines with Boards, enforce traceability, enable operational visibility, and validate end-to-end workflow readiness.
+
+Each challenge builds upon the previous one, progressively strengthening the delivery platform from foundational infrastructure to enterprise-grade governance.
 
 ---
 
@@ -64,4 +62,4 @@ The CloudLabs support team is available 24/7, 365 days a year via email and live
 - Email: cloudlabs-support@spektrasystems.com  
 - Live Chat: https://cloudlabs.ai/labs-support
 
-Click **Next** to proceed to the first challenge.
+Click **Next** to proceed to set up the prerequisites for this hackathon.

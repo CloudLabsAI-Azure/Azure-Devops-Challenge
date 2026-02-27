@@ -18,10 +18,7 @@ In this challenge, you will:
 
 - Integrate Azure DevOps Pipelines with Azure Boards.
 - Automatically generate work items upon pipeline failures.
-- Establish traceability between commits, pipelines, and work items.
 - Configure subscription-level budgets and notifications.
-- Validate operational readiness of the deployed system.
-- Review the complete delivery lifecycle from code to deployment.
 
 The objective is to ensure visibility, accountability, and operational control across the entire delivery process.
 
@@ -33,7 +30,7 @@ The objective is to ensure visibility, accountability, and operational control a
 
 - Configure integration between Azure Repos, Pipelines, and Azure Boards.
 - Ensure commits can be linked to work items.
-- Enable traceability from work item → commit → pipeline → deployment.
+- Enable traceability from work item - commit - pipeline - deployment.
 
 Outcome:
 Clear linkage exists between development activities and delivery outcomes.
@@ -85,8 +82,6 @@ By the end of Challenge 4:
 - Pipeline failures automatically generate work items.
 - Traceability exists across work items, commits, pipelines, and deployments.
 - Subscription-level budgets and notifications are configured.
-- Deployment endpoint is validated and accessible.
-- The full DevOps lifecycle is demonstrably operational.
 
 ---
 
