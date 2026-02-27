@@ -1,6 +1,6 @@
 ## Day 02
 
-# Challenge 2 – CI Pipeline Implementation with Quality Thresholds (Monolithic Application)
+# Challenge 2: CI Pipeline Implementation with Quality Thresholds (Monolithic Application)
 
 ## Goal
 

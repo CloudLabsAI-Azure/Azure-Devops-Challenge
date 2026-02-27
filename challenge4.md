@@ -1,6 +1,6 @@
 ## Day 04
 
-# Challenge 4 – Traceability & Operational Validation
+# Challenge 4: Traceability & Operational Validation
 
 ## Goal
 

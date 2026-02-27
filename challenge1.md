@@ -1,6 +1,6 @@
 ## Day 01
 
-# Challenge 1 – Platform Setup & Infrastructure Provisioning
+# Challenge 1: Platform Setup & Infrastructure Provisioning
 
 ## Goal
 

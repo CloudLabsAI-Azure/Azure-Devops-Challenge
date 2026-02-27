@@ -1,6 +1,6 @@
 ## Day 03
 
-# Challenge 3 – CI/CD Enablement for Microservices Application 
+# Challenge 3: CI/CD Enablement for Microservices Application 
 
 ## Goal
 
