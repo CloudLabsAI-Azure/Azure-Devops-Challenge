@@ -87,22 +87,32 @@ By the end of Challenge 4:
 
 ## Completion Criteria
 
-Please use the SharePoint endpoint provided below and follow the submission steps carefully:
-
-```
-will be added soon
-```
+Please use the instructions provided below and follow the submission steps carefully:
 
 Once you complete this challenge, you must:
 
-1. Inside the folder created earlier with your name, create one more folder for challenge 03:
+1. Keep the below artifact ready to be uploaded:
 
-   `<challenge04>_<Timestamp>`
-
-2. Upload the following artifacts:
    - A screenshot showing work item creation triggered by a pipeline failure.
    - A screenshot of configured budget and alert notification.
 
-#### Governance, traceability, and operational validation are mandatory for successful completion of this challenge.
+1. Name the screenshot using the below naming convention:
+
+   - `<Your_Name>_<Challenge04>_<file01>_<Time_Stamp(HH:MM)>`
+   - `<Your_Name>_<Challenge04>_<file02>_<Time_Stamp(HH:MM)>`
+
+1. Navigate back to **Hackathon Portal** where you registered for the hackathon.
+
+1. In the hackathon portal, select **Learning Resources** page.
+
+   ![](./media/hackportalv2.png)
+
+1. Scroll down to bottom, under **Upload Your Certificate**, click **upload Certificate** and upload the artifact that you have prepared earlier.
+
+   ![](./media/hack2.png)
+
+This submission is mandatory.
+
+Failure to submit these artifacts will result in the challenge being marked as incomplete.
 
 ## Congratulations! You have successfully completed Challenge 4

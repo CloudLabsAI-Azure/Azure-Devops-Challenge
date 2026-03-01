@@ -52,6 +52,52 @@ Feel free to start, stop, or restart your virtual machine as needed from the Res
 
 ## Set Up Azure DevOps for Hackathon
 
+1. Open a new browser tab and navigate to Azure DevOps using the following link:
+
+   ```
+   https://aex.dev.azure.com
+   ```
+
+1. If prompted to sign in, log in using the same credentials you used to access Azure. After signing in, leave all settings as default and click **Continue**.
+
+   ![](./media/dev1.png)
+
+1. On the next screen, select **Create new organization**.
+
+   ![](./media/dev2.png)
+
+1. On the **Get Started with Azure DevOps** page, click **Continue**.
+
+   ![](./media/dev3.png)
+
+1. On the **Almost done...** page, provide a name for your organization. Under **Enter the characters you see**, type the characters exactly as displayed. Then click Continue.
+
+   ![](./media/dev4.png)
+
+1. Once your organization is created, in the left pane, click on **Organization settings**.
+
+   ![](./media/dev5.png)
+
+1. In the **Organization Settings** page, select **Billing (1)** from left menu, set the value to **1** for **MS Hosted CI/CD**.
+
+   ![](./media/dev6.png)
+   
+   >Ensure you select only one parallel job, as increasing this number will directly affect your allocated credits.
+
+1. Scroll down and click on **Save** to save the settings.
+
+1. After updating the billing settings, select your organization name from the top navigation bar to return to the main page.
+
+   ![](./media/dev7.png)
+
+1. On the **Create a project to get started**, provide a name of your choice and click on **+ Create project (2)** 
+
+   ![](./media/dev8.png)
+
+1. Your project is now created, and the prerequisites are complete. You may proceed with the challenge.
+
+   ![](./media/dev9.png)
+
 Now, click on the **Next** from lower right corner to move on next page.
 
 ## Happy Hacking!!

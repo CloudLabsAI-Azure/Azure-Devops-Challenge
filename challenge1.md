@@ -89,36 +89,30 @@ By the end of Challenge 1:
 
 ## Completion Criteria (Mandatory Submission)
 
-Please use the SharePoint endpoint provided below and follow the submission steps carefully:
-
-```
-will be added soon
-```
+Please use the instructions provided below and follow the submission steps carefully:
 
 Once you complete this challenge, you must:
 
-1. Create a folder using the following naming convention:
-   
-   `<YourName>`
+1. Keep the below artifact ready to be uploaded:
 
-1. Inside the folder created earlier with your name, create one more folder for challenge 01:
-
-   `<Challenge01>_<Timestamp>`
-
-1. Upload the following artifacts inside that folder:
-   - The Infrastructure as Code templates you created.
    - A screenshot showing successful deployment of the provisioned resources in Azure.
+
+1. Name the screenshot using the below naming convention:
+
+   `<Your_Name>_<Challenge01>_<file01>_<Time_Stamp(HH:MM)>`
+
+1. Navigate back to **Hackathon Portal** where you registered for the hackathon.
+
+1. In the hackathon portal, select **Learning Resources** page.
+
+   ![](./media/hackportalv2.png)
+
+1. Scroll down to bottom, under **Upload Your Certificate**, click **upload Certificate** and upload the artifact that you have prepared earlier.
+
+   ![](./media/hack2.png)
 
 This submission is mandatory.
 
-The uploaded Terraform templates and deployment screenshot will serve as the primary validation criteria for this challenge and form a major success indicator for the hackathon.
-
 Failure to submit these artifacts will result in the challenge being marked as incomplete.
-
----
-
-#### Proceed to Challenge 2 only after infrastructure provisioning has been successfully validated and submitted.
-
----
 
 ## Congratulations! You have successfully completed Challenge 1

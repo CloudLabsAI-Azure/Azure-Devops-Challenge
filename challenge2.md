@@ -120,29 +120,34 @@ By the end of Challenge 2:
 
 ## Completion Criteria
 
-Please use the SharePoint endpoint provided below and follow the submission steps carefully:
-
-```
-will be added soon
-```
+Please use the instructions provided below and follow the submission steps carefully:
 
 Once you complete this challenge, you must:
 
-1. Inside the folder created earlier with your name, create one more folder for challenge 02:
+1. Keep the below artifacts ready to be uploaded:
 
-   `<Challenge02>_<Timestamp>`
-
-1. Upload the following artifacts inside that folder:
-   - The YAML pipeline definition file.
    - A screenshot of a successful end-to-end pipeline execution.
-   - A screenshot showing a basic functional validation (e.g., adding a product to the cart).
+   - A screenshot showing a basic functional validation (e.g., adding a product to the cart)
+
+1. Name the screenshot using the below naming convention:
+
+   - `<Your_Name>_<Challenge02>_<file01>_<Time_Stamp(HH:MM)>`
+   - `<Your_Name>_<Challenge02>_<file02>_<Time_Stamp(HH:MM)>`
+
+1. Navigate back to **Hackathon Portal** where you registered for the hackathon.
+
+1. In the hackathon portal, select **Learning Resources** page.
+
+   ![](./media/hackportalv2.png)
+
+1. Scroll down to bottom, under **Upload Your Certificate**, click **upload Certificate** and upload the artifacts that you have prepared earlier.
+
+   ![](./media/hack2.png)
+
+This submission is mandatory.
+
+Failure to submit these artifacts will result in the challenge being marked as incomplete.
 
 This submission will serve as validation that controlled CI implementation has been successfully achieved.
-
----
-
-#### Proceed to Challenge 3 only after your CI pipeline demonstrates enforced progression control and threshold validation.
-
----
 
 ## Congratulations! You have successfully completed Challenge 2
